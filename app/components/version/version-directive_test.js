@@ -1,7 +1,7 @@
 'use strict';
 
-describe('myApp.version module', function() {
-  beforeEach(module('myApp.version'));
+describe('zmReviewer.version module', function() {
+  beforeEach(module('zmReviewer.version'));
 
   describe('app-version directive', function() {
     it('should print current version', function() {
